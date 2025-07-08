@@ -20,6 +20,9 @@ Hi, I'm **Riya Singh** – a passionate **Full Stack Developer** who loves build
 ### 🗄️ Databases  
 `MySQL` `MongoDB`
 
+### 📁 Version Control & Collaboration
+`Git` `Github`
+
 ## 🧠 Coding Profiles
 
 - **LeetCode:**(https://leetcode.com/u/riyasingh6921/)  
