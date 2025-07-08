@@ -7,7 +7,7 @@ Hi, I'm **Riya Singh** – a passionate **Full Stack Developer** who loves build
 - 💻 **Full Stack Development** | MERN Stack  
 - ⭐ **LeetCode Rank:203,401**  
 - 📈 **700+ LinkedIn Followers**
-- 📧 **Email:** riyasinghdev@gmail.com
+- 📧 **Email:** riyasingh6921@gmail.com
 
 ## 🛠️ Tech Stack
 
