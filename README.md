@@ -30,9 +30,7 @@ Hi, I'm **Riya Singh**, a passionate and detail-oriented **Full Stack Developer*
 
 ---
 
-## 📬 Connect With Me
 
-[💼 LinkedIn](www.linkedin.com/in/riya-singh-b99411257)
 
 ---
 
